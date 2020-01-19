@@ -22,6 +22,8 @@ file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.o
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.5+1/lib/flutter_image_compress.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.5+1/lib/src/compress_format.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.5+1/lib/src/validator.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_web_image_picker-0.0.2/lib/flutter_web_image_picker.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_web_image_picker-0.0.2/lib/src/web_image_picker.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.0/lib/image_cropper.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.0/lib/src/cropper.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.0/lib/src/options.dart
@@ -626,8 +628,12 @@ file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter/lib/src/widgets
 file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter/lib/src/widgets/widget_span.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter/lib/src/widgets/will_pop_scope.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter/lib/widgets.dart
-file:///D:/flutter_work/flutter_ttt/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter_web_plugins/lib/flutter_web_plugins.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter_web_plugins/lib/src/plugin_event_channel.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter_web_plugins/lib/src/plugin_registry.dart
+file:///D:/flutter_work/flutter_ttt/.dart_tool/flutter_build/bc9df8610b861477e3ca774792a49439/main.dart
 file:///D:/flutter_work/flutter_ttt/.packages
 file:///D:/flutter_work/flutter_ttt/lib/Help.dart
 file:///D:/flutter_work/flutter_ttt/lib/TakePhoto.dart
+file:///D:/flutter_work/flutter_ttt/lib/generated_plugin_registrant.dart
 file:///D:/flutter_work/flutter_ttt/lib/main.dart

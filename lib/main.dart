@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'Help.dart';
 import 'TakePhoto.dart';
+import 'package:barcode_scan/barcode_scan.dart';
 
 void main() => runApp(MyApp());
 
@@ -60,6 +61,15 @@ class _MyHomePageState extends State<MyHomePage> {
     });
   }
 
+  Future scan(BuildContext context) async {
+    try {
+      String barcode = await BarcodeScanner.scan();
+      print(barcode);
+    } catch (e) {
+      print(e);
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
     // This method is rerun every time setState is called, for instance as done
@@ -106,9 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () async {
-          Help.showMyDialog(context, TakePhoto((file) {
-
-          }));
+          scan(context);
         },
         tooltip: 'Increment',
         child: Icon(Icons.add),

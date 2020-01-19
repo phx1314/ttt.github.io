@@ -1,4 +1,5 @@
 import 'dart:io';
+import 'dart:math';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
@@ -96,6 +97,7 @@ class TakePhotoState extends State<TakePhoto> {
 
 /*拍照*/
   _takePhoto() async {
+    print( "ddddd");
     File imageFile = await ImagePicker.pickImage(
         source: ImageSource.camera, maxWidth: 600, maxHeight: 800);
     _cropImage(imageFile, isAngle: true);
