@@ -1,3 +1,4 @@
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/barcode_scan-1.0.0/lib/barcode_scan.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/collection.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/algorithms.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/canonicalized_map.dart
@@ -18,6 +19,14 @@ file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.o
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/unmodifiable_wrappers.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/utils.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib/src/wrappers.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.5+1/lib/flutter_image_compress.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.5+1/lib/src/compress_format.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_image_compress-0.6.5+1/lib/src/validator.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.0/lib/image_cropper.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.0/lib/src/cropper.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.0/lib/src/options.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-1.2.0/lib/src/utils.dart
+file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.3+1/lib/image_picker.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8/lib/meta.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.1.6/lib/typed_buffers.dart
 file:///D:/flutter_windows_v1.13.6-beta/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.0.8/lib/hash.dart
@@ -619,4 +628,6 @@ file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter/lib/src/widgets
 file:///D:/flutter_windows_v1.13.6-beta/flutter/packages/flutter/lib/widgets.dart
 file:///D:/flutter_work/flutter_ttt/.dart_tool/flutter_build/b4809db5b4da7cf69fdc67ebf77150ec/main.dart
 file:///D:/flutter_work/flutter_ttt/.packages
+file:///D:/flutter_work/flutter_ttt/lib/Help.dart
+file:///D:/flutter_work/flutter_ttt/lib/TakePhoto.dart
 file:///D:/flutter_work/flutter_ttt/lib/main.dart
